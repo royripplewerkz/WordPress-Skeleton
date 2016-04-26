@@ -1,3 +1,6 @@
 [submodule "wp"]
 	path = wp
 	url = git://github.com/royripplewerkz/WordPress-Skeleton
+[submodule "deploy"]
+	path = deploy
+	url = git@github.com:royripplewerkz/WP-Stack.git
